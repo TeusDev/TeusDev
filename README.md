@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Quer conhecer mais sobre mim? Dá uma olhadinha em minhas redes sociais!
+  ### Quer me conhecer melhor? Dá uma olhadinha em minhas redes sociais!
  
 <div>
   <a href="https://instagram.com/mt.luc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
