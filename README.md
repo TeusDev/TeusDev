@@ -26,7 +26,7 @@
     </p>
     <a href="https://github.com/MateusLuc">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusLuc&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLuc&layout=compact&langs_count=6&card_width=275px&theme=codeSTACKr"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLuc&layout=compact&langs_count=6&card_width=225px&theme=codeSTACKr"/>
     </a>
 </div>
 <hr>
