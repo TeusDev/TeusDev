@@ -26,7 +26,7 @@
     </p>
     <a href="https://github.com/MateusLuc">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusLuc&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLuc&layout=compact&langs_count=6&card_width=375px&theme=codeSTACKr"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLuc&layout=compact&langs_count=6&card_width=300px&theme=codeSTACKr"/>
     </a>
 </div>
 <hr>
@@ -34,7 +34,7 @@
 
 -   🔭 I'm currently available for **job proposals**!
 
--   🌱 I’m currently learning advanced **HTML / CSS / JS / REACT / NODE**
+-   🌱 I’m currently learning **HTML / CSS / JS / REACT / NODE**
 
 <!-- -   👯 I’m contributing to the the open-source community via [???] -->
 
@@ -42,13 +42,13 @@
 
 -   👨‍💻 All of my projects are available at **[GitHub](https://github.com/MateusLuc)**
 
--   📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/dev-mateus/)**
+-   📝 I regularly write articles on **[LinkedIN](https://linkedin.com/in/dev-mateus)**
 
-<!-- -   💬 Ask me about **???** -->
+-   💬 My honest opinion on diverse subjects on **[Twitter](https://twitter.com/TeusDev)** // don't expect much 😅
 
 <!-- -   📫 How to reach me **mail** -->
 
--   📄 Know more about my life experiences on **[Instagram](https://instagram.com/mt.luc/)**
+-   📄 Know more about my life experiences on **[Instagram](https://instagram.com/mt.luc)**
 
 <br>
 <hr>
