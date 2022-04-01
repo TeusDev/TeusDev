@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="header.svg">
+	<a href="https://github.com/MateusLuc">
 		<img src="header.svg" width="800" height="100" alt="Hi!">
 	</a>
 
@@ -42,9 +42,9 @@
 
 -   👨‍💻 All of my projects are available at **[GitHub](https://github.com/MateusLuc)**
 
--   📝 I regularly write articles on **[LinkedIN](https://linkedin.com/in/dev-mateus)**
+-   📝 I regularly publish content on **[LinkedIN](https://linkedin.com/in/dev-mateus)**
 
--   💬 My honest opinion on diverse subjects on **[Twitter](https://twitter.com/TeusDev)** // don't expect much 😅
+-   💬 My opinion of diverse subjects on **[Twitter](https://twitter.com/TeusDev)** // don't expect much 😅
 
 <!-- -   📫 How to reach me **mail** -->
 
