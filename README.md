@@ -4,9 +4,9 @@
 		<img src="header.svg" width="800" height="100" alt="Hi!">
 	</a>
 
-  <p>I was 12 years old when i had my first contact with the Java language in Minecraft. Since then, i have always been fascinated by the logic behind that world I lived and built playing with my friends.
+<!--   <p>I was 12 years old when i had my first contact with the Java language in Minecraft. Since then, i have always been fascinated by the logic behind that world I lived and built playing with my friends.
 
-  So I grew up and realized shortly after graduating from high school, that my desire was to develop comprehensive solutions to the problems of the outside world that I was now stepping into.</p>
+  So I grew up and realized shortly after graduating from high school, that my desire was to develop comprehensive solutions to the problems of the outside world that I was now stepping into.</p> -->
 
 </div>
 <hr>
