@@ -42,13 +42,13 @@
 
 -   👨‍💻 All of my projects are available at **[GitHub](https://github.com/teusdev)**
 
--   📝 I regularly publish content on **[LinkedIN](https://linkedin.com/in/dev-mateus)**
+-   📝 I regularly publish content on **[LinkedIN](https://linkedin.com/in/teusdev)**
 
--   💬 My opinion of diverse subjects on **[Twitter](https://twitter.com/TeusDev)** // don't expect much 😅
+-   💬 My opinion of diverse subjects on **[Twitter](https://twitter.com/teusdev)** // don't expect much 😅
 
 <!-- -   📫 How to reach me **mail** -->
 
--   📄 Know more about my life experiences on **[Instagram](https://instagram.com/mt.luc)**
+-   📄 Know more about my life experiences on **[Instagram](https://instagram.com/teusdev)**
 
 <br>
 <hr>
