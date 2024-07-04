@@ -29,9 +29,9 @@
 <hr>
 <br>
 
--   🔭 I'm currently available for **job proposals**!
+-   🔭 I'm currently available!
 
--   🌱 I’m currently learning **HTML / CSS / JS / REACT / NODE**
+-   🌱 ON going learning into **Python Backend - React Frontend**
 
 <!-- -   👯 I’m contributing to the the open-source community via [???] -->
 
@@ -41,11 +41,9 @@
 
 -   📝 I regularly publish content on **[LinkedIN](https://linkedin.com/in/teusdev)**
 
--   💬 My opinion of diverse subjects on **[Twitter](https://twitter.com/teusdev)** // don't expect much 😅
-
 <!-- -   📫 How to reach me **mail** -->
 
--   📄 Know more about my life experiences on **[Instagram](https://instagram.com/teusdev)**
+-   📄 Personal life on **[Instagram](https://instagram.com/teusdev)**
 
 <br>
 <hr>
