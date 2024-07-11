@@ -43,7 +43,7 @@
 
 <!-- -   📫 How to reach me **mail** -->
 
--   📄 Personal life on **[Instagram](https://instagram.com/teusdev)**
+-   📄 Personal life on **[Instagram](https://instagram.com/teusdv)**
 
 <br>
 <hr>
