@@ -5,13 +5,8 @@
 	</a>
 </div>
 <hr>
-<div align="center" style="display: inline_block"><br>
-	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" hspace="8"/><img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" alt="Qlik Sense" width="40" height="40" hspace="8"/><img src="powerbi.png" alt="Power BI" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></p>
+
 <br>
 <div align="center">
     <p>
@@ -21,29 +16,24 @@
         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teusdev" alt="teusdev"/></a>
     </p>
     <a href="https://github.com/teusdev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teusdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusdev&layout=compact&langs_count=6&card_width=400px&theme=codeSTACKr"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teusdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&card_width=800px&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusdev&layout=compact&langs_count=6&card_width=800px&theme=codeSTACKr"/>
     </a>
 	<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TeusDev&theme=hacker&date_format=j%20M%5B%20Y%5D&border=0C1924&background=09131B&ring=D8582C&stroke=0C1924&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D8582C&sideLabels=D8582C&dates=7C7C7C" alt="TeusDev" /></p>
 </div>
-<hr>
-<br>
 
--   🔭 I'm currently available!
+---
 
--   🌱 ON going learning into **Python Backend - React Frontend**
+## 🔧 Tech Stack Principal
 
-<!-- -   👯 I’m contributing to the the open-source community via [???] -->
+- 🛠️ **Back‑end & APIs**: FastAPI 🐍 | Airflow ☁️  
 
-<!-- -   🤝 And also with test automation frameworks [???] -->
+- 📊 **BI & Analytics**: Qlik Sense 📈 | Power BI 💥  
 
--   👨‍💻 All of my projects are available at **[GitHub](https://github.com/teusdev)**
+- 🤖 **Data Science & IA**:  
+  - ML: scikit‑learn 🚀 | XGBoost ⚡ | MLflow 🔄  
+  - DL: TensorFlow 🧠 | PyTorch 🔥  
 
--   📝 I regularly publish content on **[LinkedIN](https://linkedin.com/in/teusdev)**
-
-<!-- -   📫 How to reach me **mail** -->
-
--   📄 Personal life on **[Instagram](https://instagram.com/teusdv)**
-
-<br>
-<hr>
+- 🚀 **Infra & DevOps**: Docker 🐳 | Kubernetes ☸️  
+  - CI/CD: GitHub Actions ⚙️ | Drone CI 🤖  
+  - Observability: Prometheus 📈 | Grafana 📊 | ELK 🐘
