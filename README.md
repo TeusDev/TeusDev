@@ -4,8 +4,25 @@
 		<img src="header.svg" width="800" height="100" alt="Hi!">
 	</a>
 </div>
-<hr>
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" hspace="8"/><img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" alt="Qlik Sense" width="40" height="40" hspace="8"/><img src="powerbi.png" alt="Power BI" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" hspace="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></p>
+<hr style="text-align:center">
+
+<!-- Main Tech Stack -->
+<h2 align="center">Main Stack</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"   width="40" height="40" hspace="8"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" alt="Qlik Sense"                 width="40" height="40" hspace="8"/>
+  <img src="powerbi.png"                                                                                                           alt="Power BI"                  width="40" height="40" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow"  width="40" height="40" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"        alt="PyTorch"     width="40" height="40"/>
+</p>
+
+<!-- General Stack -->
+<h2 align="center">General Stack</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"        alt="FastAPI"     width="40" height="40" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="Python"      width="40" height="40" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"            alt="React"       width="40" height="40"/>
+</p>
 
 <br>
 <div align="center">
