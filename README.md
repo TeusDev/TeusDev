@@ -7,7 +7,7 @@
 <hr style="text-align:center">
 
 <!-- Main Tech Stack -->
-<h2 align="center">Main Stack</h2>
+<h2 align="center">Daily Stack</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"   width="40" height="40" hspace="8"/>
   <img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" alt="Qlik Sense"                 width="40" height="40" hspace="8"/>
@@ -17,7 +17,7 @@
 </p>
 
 <!-- General Stack -->
-<h2 align="center">General Stack</h2>
+<h2 align="center">Known Tech</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"        alt="FastAPI"     width="40" height="40" hspace="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="Python"      width="40" height="40" hspace="8"/>
