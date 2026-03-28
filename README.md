@@ -1,56 +1,77 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/teusdev">
-		<img src="header.svg" width="800" height="100" alt="Hi!">
-	</a>
-</div>
-<hr style="text-align:center">
-
-<!-- Main Tech Stack -->
-<h2 align="center">Daily Stack</h2>
+<!-- BACKGROUND HERO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"   width="40" height="40" hspace="8"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" alt="Qlik Sense"                 width="40" height="40" hspace="8"/>
-  <img src="powerbi.png"                                                                                                           alt="Power BI"                  width="40" height="40" hspace="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow"  width="40" height="40" hspace="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"        alt="PyTorch"     width="40" height="40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&animation=fadeIn"/>
 </p>
 
-<!-- General Stack -->
-<h2 align="center">Known Tech</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"        alt="FastAPI"     width="40" height="40" hspace="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"          alt="Python"      width="40" height="40" hspace="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"            alt="React"       width="40" height="40"/>
+<!-- LOGO (OVERLAY FEEL) -->
+<p align="center" style="margin-top:-170px;">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=TEUS&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=DEV&descSize=18&descAlignY=68&descAlign=50&descColor=58A6FF"/>
 </p>
 
-<br>
+<!-- SPACING FIX -->
+<br><br>
+
+<!-- TYPING SUBTITLE -->
 <div align="center">
-    <p>
-        <img src="https://komarev.com/ghpvc/?username=teusdev&label=Profile%20views&color=0e75b6&style=flat" alt="teusdev"/>
-    </p>
-    <p>
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teusdev" alt="teusdev"/></a>
-    </p>
-    <a href="https://github.com/teusdev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teusdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&card_width=800px&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusdev&layout=compact&langs_count=6&card_width=800px&theme=codeSTACKr"/>
-    </a>
-	<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TeusDev&theme=hacker&date_format=j%20M%5B%20Y%5D&border=0C1924&background=09131B&ring=D8582C&stroke=0C1924&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D8582C&sideLabels=D8582C&dates=7C7C7C" alt="TeusDev" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+data+pipelines;Designing+production-ready+ML+models;Crafting+fast+and+reliable+APIs;Optimizing+systems+for+efficiency;Transforming+data+into+actionable+insights;Implementing+robust+data+warehouses;Automating+complex+workflows;Integrating+cloud-native+solutions;Ensuring+data+quality+and+security;Driving+data-driven+decisions"/>
 </div>
 
 ---
 
-## 🔧 Tech Stack Principal
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teusdev&theme=github-compact&hide_border=true&area=true"/>
+</div>
 
-- 🛠️ **Back‑end & APIs**: FastAPI 🐍 | Airflow ☁️  
+---
 
-- 📊 **BI & Analytics**: Qlik Sense 📈 | Power BI 💥  
+## ⚡ focus
 
-- 🤖 **Data Science & IA**:  
-  - ML: scikit‑learn 🚀 | XGBoost ⚡ | MLflow 🔄  
-  - DL: TensorFlow 🧠 | PyTorch 🔥  
+```txt
+→ data pipelines that don’t break at 3am
+→ working code that actually ships to production
+→ fast, clean, reliable APIs
+```
 
-- 🚀 **Infra & DevOps**: Docker 🐳 | Kubernetes ☸️  
-  - CI/CD: GitHub Actions ⚙️ | Drone CI 🤖  
-  - Observability: Prometheus 📈 | Grafana 📊 | ELK 🐘
+---
+
+## 🧠 stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-python-0d1117?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-fastapi-0d1117?style=for-the-badge&logo=fastapi)
+![Airflow](https://img.shields.io/badge/-airflow-0d1117?style=for-the-badge&logo=apacheairflow)
+
+![TensorFlow](https://img.shields.io/badge/-tensorflow-0d1117?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-pytorch-0d1117?style=for-the-badge&logo=pytorch)
+
+![Docker](https://img.shields.io/badge/-docker-0d1117?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-0d1117?style=for-the-badge&logo=kubernetes)
+
+</div>
+
+---
+
+## 🚀 now
+
+- scaling data workflows ⚙️  
+- building the systems future will use 🤖  
+- optimizing performance ⚡  
+
+---
+
+## 🌐 connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/teusdev)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
